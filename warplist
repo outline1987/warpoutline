@@ -6,8 +6,8 @@
 
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes. 
-warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#licemcem4
-warp://M849NlH7-uM5F9q78-Pf63x4L0@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#licemcem4auto
+warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
+warp://M849NlH7-uM5F9q78-Pf63x4L0@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
 warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
 warp://M849NlH7-uM5F9q78-Pf63x4L0@auto
 warp://auto
