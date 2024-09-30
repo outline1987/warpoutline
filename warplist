@@ -6,14 +6,14 @@
 
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes. 
-warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
-warp://M849NlH7-uM5F9q78-Pf63x4L0@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4
-warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
-warp://M849NlH7-uM5F9q78-Pf63x4L0@auto
-warp://auto
-warp://auto6
-warp://p1@auto/?ifp=1-3&ifpm=m4
-warp://p2@auto/?ifp=1-3&ifpm=m4
+warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#1
+warp://M849NlH7-uM5F9q78-Pf63x4L0@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#2
+warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto#3
+warp://M849NlH7-uM5F9q78-Pf63x4L0@auto#4
+warp://auto#5
+warp://auto6#6
+warp://p1@auto/?ifp=1-3&ifpm=m4#7
+warp://p2@auto/?ifp=1-3&ifpm=m4#8
 #For g and h mode, you can use hex bytes between each _, with each part ranging from 00 to FF. You can also select more hex bytes to randomly choose between them.
 #In the next line, this means that the fake packet uses 0x30 as the first byte in the noise.
 warp://p2@auto/?ifp=1-3&ifpm=h_30#h_30     
