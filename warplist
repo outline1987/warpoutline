@@ -10,6 +10,7 @@
 #warp://M849NlH7-uM5F9q78-Pf63x4L0@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#a2
 #warp://M849NlH7-uM5F9q78-Pf63x4L0@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a3
 #warp://M849NlH7-uM5F9q78-Pf63x4L0@auto#a4
+warp://188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a3
 warp://auto#a5
 warp://auto6#a6
 #warp://p1@auto/?ifp=1-3&ifpm=m4#a7
