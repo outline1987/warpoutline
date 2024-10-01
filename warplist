@@ -9,7 +9,7 @@
 warp://418X7PEq-E97K6Yx5-850I2QnX@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#a1
 warp://n16vy5J3-Q7Ukh659-9Y4l32dG@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#a2
 warp://n16vy5J3-Q7Ukh659-9Y4l32dG@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a3
-warp://418X7PEq-E97K6Yx5-850I2QnX@auto#a4
+#warp://418X7PEq-E97K6Yx5-850I2QnX@auto#a4
 warp://188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a5
 warp://auto#a6
 warp://auto6#a7
