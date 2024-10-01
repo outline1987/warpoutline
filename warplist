@@ -12,7 +12,7 @@ warp://48yx16fg-J9ig75G3-w723BUu4@auto#a4
 warp://188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a5
 #warp://auto#a6
 #warp://auto6#a7
-warp://5y4vnR02-27tb1x5o-926dnsV1@[2606:4700:d0::136d:8b84:401:7a7f]:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a10
+#warp://5y4vnR02-27tb1x5o-926dnsV1@[2606:4700:d0::136d:8b84:401:7a7f]:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#a10
 #warp://p1@auto/?ifp=1-3&ifpm=m4#a8
 #warp://p2@auto/?ifp=1-3&ifpm=m4#a9
 #For g and h mode, you can use hex bytes between each _, with each part ranging from 00 to FF. You can also select more hex bytes to randomly choose between them.
